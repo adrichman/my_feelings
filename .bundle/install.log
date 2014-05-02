@@ -1,0 +1,20 @@
+# Logfile created on 2014-05-01 20:16:44 -0400 by logger.rb/41954
+I, [2014-05-01T20:16:44.584528 #38069]  INFO -- : 0:  rake (10.3.1) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.3.1.gemspec
+I, [2014-05-01T20:16:44.585310 #38069]  INFO -- : 0:  i18n (0.6.9) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-05-01T20:16:44.585603 #38069]  INFO -- : 0:  json (1.8.1) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-05-01T20:16:44.585870 #38069]  INFO -- : 0:  minitest (5.3.3) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-5.3.3.gemspec
+I, [2014-05-01T20:16:44.586128 #38069]  INFO -- : 0:  thread_safe (0.3.3) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/thread_safe-0.3.3.gemspec
+I, [2014-05-01T20:16:44.586581 #38069]  INFO -- : 0:  tzinfo (1.1.0) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-1.1.0.gemspec
+I, [2014-05-01T20:16:44.586816 #38069]  INFO -- : 0:  activesupport (4.1.0) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-4.1.0.gemspec
+I, [2014-05-01T20:16:44.587044 #38069]  INFO -- : 0:  builder (3.2.2) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.2.2.gemspec
+I, [2014-05-01T20:16:44.587276 #38069]  INFO -- : 0:  activemodel (4.1.0) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/activemodel-4.1.0.gemspec
+I, [2014-05-01T20:16:44.587508 #38069]  INFO -- : 0:  arel (5.0.1.20140414130214) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/arel-5.0.1.20140414130214.gemspec
+I, [2014-05-01T20:16:44.587737 #38069]  INFO -- : 0:  activerecord (4.1.0) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-4.1.0.gemspec
+I, [2014-05-01T20:16:44.587960 #38069]  INFO -- : 0:  rack (1.5.2) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-05-01T20:16:44.588181 #38069]  INFO -- : 0:  rack-flash3 (1.0.5) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/rack-flash3-1.0.5.gemspec
+I, [2014-05-01T20:16:45.469397 #38069]  INFO -- : 0:  rack-protection (1.5.3) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.3.gemspec
+I, [2014-05-01T20:16:45.469776 #38069]  INFO -- : 0:  tilt (1.4.1) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-05-01T20:16:46.889628 #38069]  INFO -- : 0:  sinatra (1.4.5) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.5.gemspec
+I, [2014-05-01T20:16:46.890071 #38069]  INFO -- : 0:  sinatra-activerecord (2.0.0.rc2) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-activerecord-2.0.0.rc2.gemspec
+I, [2014-05-01T20:16:46.890391 #38069]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/dan/.rvm/gems/ruby-2.0.0-p353/specifications/sqlite3-1.3.9.gemspec
+I, [2014-05-01T20:16:46.890688 #38069]  INFO -- : 0:  bundler (1.5.1) from /Users/dan/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
